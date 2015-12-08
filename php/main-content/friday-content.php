@@ -42,7 +42,7 @@
 
     </article>
 
-    <!-- /////////////////////////////////////////////////////////////// -->
+    <!-- / -->
 
 	<article id="line-dancing" class="over-fifties entry">
 
@@ -91,7 +91,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="computer-drop-in" class="open-to-all entry">
 
@@ -141,7 +141,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="adventure-playground" class="children entry">
 
@@ -196,7 +196,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="tip-top-dance" class="children entry">
 

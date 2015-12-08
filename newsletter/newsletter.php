@@ -6,7 +6,7 @@
 
 	<meta charset="UTF-8">
 
-	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame - what a beauty, cross broswer compatiblity solved!! -->
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -25,7 +25,7 @@
 
 <body class="current-page no-sub-menu">
 
-	<!--///////////////////////// start of header /////////////////////////////-->
+	<!-- start of header -->
 
 	<header>
 
@@ -33,7 +33,7 @@
 		</div>
 
 
-		<!--///////////////////////// start of nav bar /////////////////////////////-->
+		<!-- start of nav bar -->
 
 		<nav aria-label="primary">
 
@@ -58,9 +58,9 @@
 
 		</nav>
 
-		<!--///////////////////////// end of nav bar /////////////////////////////-->
+		<!-- end of nav bar -->
 
-		<!-- ///////////////////////// start of logo-newsletter.php ///////////////////////// -->
+		<!--  start of logo-newsletter.php  -->
 
 		<div class="logo-newsletter">
 
@@ -74,13 +74,13 @@
 
 		<h1>Venture : Newsletter</h1>
 
-		<!-- ///////////////////////// end of logo-newsletter.php ///////////////////////// -->
+		<!--  end of logo-newsletter.php  -->
 
 	</header>
 
-	<!--///////////////////////// end of header /////////////////////////////-->
+	<!-- end of header -->
 
-			<!--///////////////////////// start of breadcrumbs /////////////////////////////-->
+			<!-- start of breadcrumbs -->
 
 <div class="breadcrumbs">
     <ul>
@@ -91,9 +91,9 @@
     </ul>
 </div>
 	
-	<!--///////////////////////// end of breadcrumbs /////////////////////////////-->
+	<!-- end of breadcrumbs -->
 	
-	<!--///////////////////////// start of main /////////////////////////////-->
+	<!-- start of main -->
 
 	<main class="general">
 
@@ -118,30 +118,25 @@
 						</div>
 
 						<div class="wrapper">
-							<!-- 								<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
-								</label> -->
+							<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+								</label>
 							<input type="email" value="" name="EMAIL" class="" id="mce-EMAIL" placeholder="Email address *">
 						</div>
 
 						<div class="wrapper">
-							<!-- 								<label for="mce-FNAME">First Name</label> -->
+							<label for="mce-FNAME">First Name</label>
 							<input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First name">
 						</div>
 
 						<div class="wrapper">
-							<!-- 								<label for="mce-LNAME">Last Name</label> -->
+							<label for="mce-LNAME">Last Name</label>
 							<input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Last name">
 						</div>
 
 						<div id="mce-responses" class="clear">
 							<div class="response" id="mce-error-response" style="display:none"></div>
 							<div class="response" id="mce-success-response" style="display:none"></div>
-						</div>
-
-						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-						<!-- 							<div style="position: absolute; left: -5000px;">
-								<input type="text" name="b_5573bb5a74ce2addd699f4dbd_2ce312646c" tabindex="-1" value="">
-							</div> -->
+						</div
 
 						<div>
 							<input type="submit" value="Sign-up" name="subscribe" id="mc-embedded-subscribe" class="input-btn">
@@ -160,7 +155,7 @@
 
 
 
-		<!--///////////////////////// start of Share on social media /////////////////////////////-->
+		<!-- start of Share on social media -->
 
 		<div class="social-share">
 
@@ -181,13 +176,13 @@
 		</div>
 
 
-		<!--///////////////////////// start of Share on social media /////////////////////////////-->
+		<!-- start of Share on social media -->
 
 	</main>
 
-	<!-- ////////////////////////// end of main ////////////////////////// -->
+	<!-- end of main -->
 
-	<!-- ///////////////////////// start of coming-soon.php ///////////////////////// -->
+	<!--  start of coming-soon.php  -->
 
 	<aside class="coming-soon">
 
@@ -197,10 +192,8 @@
 
 	</aside>
 
-	<!-- ///////////////////////// end of coming-soon.php ///////////////////////// -->
+	<!--  end of coming-soon.php  -->
 
-
-
-		<!-- ///////////////////////// start of footer.php ///////////////////////// -->
+		<!--  start of footer.php  -->
 
 <?php include '../php/footer-content/footer.php';?>

@@ -29,7 +29,7 @@
     </article>
 
 
-<!-- /////////////////////////////////////////////////////////////// -->	
+<!-- / -->	
 	
 <article id="adventure-playground" class="children entry">
 
@@ -72,7 +72,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="computer-support" class="open-to-all entry">
 
@@ -101,7 +101,7 @@
 </article>
 
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="councilors-surgery" class="open-to-all entry">
 
@@ -129,7 +129,7 @@
 
 </article>
 	
-	<!-- /////////////////////////////////////////////////////////////// -->
+	<!-- / -->
 	
  <article id="tip-top-dance" class="events entry">
 
@@ -157,7 +157,7 @@
 </article>
 
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="zumba-class" class="women-only entry">
 
@@ -185,7 +185,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="computer-drop-in" class="open-to-all entry">
 
@@ -220,7 +220,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 	
   <article id="christmas-party" class="events entry">
 
@@ -248,7 +248,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="yoga-over-fifties" class="over-fifties entry">
 
@@ -280,7 +280,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="glissando-steel-band" class="open-to-all entry">
 
@@ -315,7 +315,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="yoga" class="open-to-all entry">
 
@@ -340,7 +340,7 @@
 	<!-- inner close -->
 </article>
 	
-	<!-- /////////////////////////////////////////////////////////////// -->
+	<!-- / -->
 	
  <article id="parents-carers-forum" class="events entry">
 
@@ -368,7 +368,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
     <article id="body-conditioning" class="eighteen-plus entry">
 
@@ -399,7 +399,7 @@
 
     </article>
 
-    <!-- /////////////////////////////////////////////////////////////// -->
+    <!-- / -->
 
 
 <article id="african-dance" class="women-only entry">
@@ -427,7 +427,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="pilates" class="open-to-all entry">
 
@@ -456,7 +456,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="tip-top-dance" class="children entry">
 
@@ -483,7 +483,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="sewing" class="women-only entry">
 
@@ -510,7 +510,7 @@
 	</div>
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="advocacy-project" class="open-to-all entry">
 
@@ -537,7 +537,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="line-dancing" class="over-fifties entry">
 
@@ -566,7 +566,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="supplementary-school" class="children entry">
 
@@ -592,7 +592,7 @@
 	</div>
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="lighthouse-church" class="open-to-all entry">
 
@@ -620,6 +620,6 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 </div>

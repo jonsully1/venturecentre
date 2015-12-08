@@ -40,7 +40,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <!-- <article id="church-of-christ" class="open-to-all entry">
 

@@ -1,6 +1,6 @@
 <footer aria-label="footer">
 
-	<!--///////////////////////// start of Donate /////////////////////////////-->
+	<!-- start of Donate -->
 
 
 	<div>
@@ -21,9 +21,9 @@
 	</div>
 
 
-	<!--///////////////////////// end of Donate /////////////////////////////-->
+	<!-- end of Donate -->
 
-	<!--///////////////////////// start of Visit Us /////////////////////////////-->
+	<!-- start of Visit Us -->
 
 	<div>
 
@@ -41,9 +41,9 @@
 
 	</div>
 
-	<!--///////////////////////// end of Visit Us  /////////////////////////////-->
+	<!-- end of Visit Us  -->
 
-	<!--///////////////////////// start of Contact Us /////////////////////////////-->
+	<!-- start of Contact Us -->
 
 	<div>
 
@@ -58,9 +58,9 @@
 
 	</div>
 
-	<!--///////////////////////// end of Contact Us  /////////////////////////////-->
+	<!-- end of Contact Us  -->
 
-	<!--///////////////////////// start of other links /////////////////////////////-->
+	<!-- start of other links -->
 
 
 	<div class="other-links">
@@ -83,7 +83,7 @@
 	<!-- close other links -->
 
 
-	<!--///////////////////////// end of other links /////////////////////////////-->
+	<!-- end of other links -->
 
 <div class="josdesign">
 	
@@ -93,9 +93,9 @@
 
 </footer>
 
-<!-- ///////////////////////// end of footer.php ///////////////////////// -->
+<!--  end of footer.php  -->
 
-<!--///////////////////////// start of js /////////////////////////////-->
+<!-- start of js -->
 
 <!-- loads jquery from google's hosted version then checks to make sure it was successful, if not it will load from this server's hosted version -->
 <!-- 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
@@ -120,7 +120,7 @@
 
 
 
-<!--///////////////////////// end of js /////////////////////////////-->
+<!-- end of js -->
 
 </body>
 

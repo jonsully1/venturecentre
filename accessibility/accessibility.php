@@ -6,7 +6,7 @@
 
 	<meta charset="UTF-8">
 
-	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame - what a beauty, cross broswer compatiblity solved!! -->
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -25,7 +25,7 @@
 
 <body id="remove-link" class="current-page no-sub-menu">
 
-	<!--///////////////////////// start of header /////////////////////////////-->
+	<!-- start of header -->
 
 	<header>
 
@@ -33,7 +33,7 @@
 		</div>
 
 
-		<!--///////////////////////// start of nav bar /////////////////////////////-->
+		<!-- start of nav bar -->
 
 		<nav aria-label="primary">
 
@@ -61,21 +61,21 @@
 
 		</nav>
 
-		<!--///////////////////////// end of nav bar /////////////////////////////-->
+		<!-- end of nav bar -->
 
-		<!-- ///////////////////////// start of logo-newsletter ///////////////////////// -->
+		<!--  start of logo-newsletter  -->
 
 		<?php include '../php/header-content/logo-newsletter.php';?>
 		
 				<h1>Venture : Accessibility</h1>
 
-		<!-- ///////////////////////// end of logo-newsletter ///////////////////////// -->
+		<!--  end of logo-newsletter  -->
 
 	</header>
 
-	<!--///////////////////////// end of header /////////////////////////////-->
+	<!-- end of header -->
 
-	<!--///////////////////////// start of breadcrumbs /////////////////////////////-->
+	<!-- start of breadcrumbs -->
 
 	<div class="breadcrumbs">
 		<ul>
@@ -87,9 +87,9 @@
 		</ul>
 	</div>
 
-	<!--///////////////////////// end of breadcrumbs /////////////////////////////-->
+	<!-- end of breadcrumbs -->
 
-	<!--///////////////////////// start of main /////////////////////////-->
+	<!-- start of main -->
 
 
 	<main class="general" id="maincontent">
@@ -100,26 +100,10 @@
       
       <p>More information comnig soon...</p>
 
-<!-- 			<p>The Venture Community Association (VCA) was established in 1960 and comprises; the oldest Adventure Playground in UK delivering OFSTED registered children’s services, a  purpose-built Steel Panyard and a thriving Community Centre.</p>
-			<p>Our community centre, the Venture Centre, delivers adult and community learning, a healthy living programme and community events. We work in partnership with several local organisations, most notably:</p>
-				
-			<ul class="list-item">
-				<li>Nova New Opportunities</li>
-				<li>Clement James Centre</li>
-				<li>Open Age</li>
-				<li>Westway Trust</li>
-				<li>Al Hasaniya Moroccan Women’s Centre</li>
-				<li>Dalgarno Neighbourhood Trust</li>
-				<li>Meanwhile Gardens</li>
-			</ul>
-			
-			<p>Our playground, the Notting Hill Adventure Playground, offers free supervised adventure play for local children aged 5-15. We complement the play provision with arts and crafts, a sports programme, cooking classes and regular trips.</p>
-			<p>Our panyard is currently home to the Glissando Steel Orchestra, a world renowned steel band directed by the master pan maker Bertrand Parris.</p> -->
 
-		</div>
-<!-- 		close inner -->
+		</div><!-- close inner -->
 
-		<!--///////////////////////// start of Share on social media /////////////////////////////-->
+		<!-- start of Share on social media -->
 
 		<div class="social-share">
 
@@ -140,14 +124,15 @@
 		</div>
 
 
-		<!--///////////////////////// start of Share on social media /////////////////////////////-->
+		<!-- start of Share on social media -->
 
 
 	</main>
 
-	<!-- ///////////////////////// end of  main content ///////////////////////// -->
+	<!--  end of  main content  -->
 
-	<!-- ///////////////////////// start of coming-soon.php ///////////////////////// -->
+	<!--  start of coming-soon.php  -->
+    
 	<aside class="coming-soon" role="complementary">
 
 		<h2>Events</h2>
@@ -155,9 +140,10 @@
 		<?php include '../php/main-content/coming-soon.php';?>
 
 	</aside>
-	<!-- ///////////////////////// end of coming-soon.php ///////////////////////// -->
+    
+	<!--  end of coming-soon.php  -->
 
-	<!-- ///////////////////////// start of recent-news-content.php ///////////////////////// -->
+	<!--  start of recent-news-content.php  -->
 
 	<section class="recent-news">
 
@@ -167,8 +153,8 @@
 
 	</section>
 
-	<!-- ///////////////////////// end of recent-news-content.php ///////////////////////// -->
+	<!--  end of recent-news-content.php  -->
 
-	<!-- ///////////////////////// start of footer.php ///////////////////////// -->
+	<!--  start of footer.php  -->
 
 	<?php include '../php/footer-content/footer.php';?>

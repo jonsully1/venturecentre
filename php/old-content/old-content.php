@@ -1,4 +1,4 @@
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 	
     <article id="creche-recruitment" class="events">
 
@@ -26,7 +26,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="family-fun-day" class="open-to-all entry">
 
@@ -65,7 +65,7 @@
 
 </article>
 	
-    <!-- /////////////////////////////////////////////////////////////// -->   <article id="massage" class="eighteen-plus entry">
+    <!-- / -->   <article id="massage" class="eighteen-plus entry">
 
         <div class="inner">
 
@@ -116,7 +116,7 @@
 
     </article>
 
-    <!-- /////////////////////////////////////////////////////////////// -->
+    <!-- / -->
 
 <article id="summer-dance-school" class="events">
 	
@@ -152,7 +152,7 @@
 		
 	</article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="circuit-training" class="eighteen-plus entry">
 
@@ -201,7 +201,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="belly-bop-dance" class="children entry">
 
@@ -252,7 +252,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="belly-bop-dance" class="children entry">
 
@@ -301,7 +301,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 
 <article id="summer-dance-school" class="events entry">
@@ -331,7 +331,7 @@
 </article>
 
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="community-supper" class="events">
 
@@ -368,7 +368,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="family-fun-day" class="events">
 
@@ -396,7 +396,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 
 <article id="community-supper" class="events">
@@ -425,7 +425,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 
 <article id="creche-recruitment" class="events">

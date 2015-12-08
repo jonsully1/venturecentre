@@ -52,7 +52,7 @@
 
 </article>
 	
-	<!-- /////////////////////////////////////////////////////////////// -->
+	<!-- / -->
 
 <article id="tip-top-dance" class="children entry">
 
@@ -108,7 +108,7 @@
 </article>
 	
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="computer-support" class="open-to-all entry">
 
@@ -160,7 +160,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="councilors-surgery" class="open-to-all entry">
 
@@ -204,7 +204,7 @@
 </article>
 
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="zumba-class" class="women-only entry">
 

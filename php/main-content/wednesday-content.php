@@ -47,7 +47,7 @@
 	<!-- inner close -->
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="african-dance" class="women-only entry">
 
@@ -97,7 +97,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="computer-drop-in" class="open-to-all entry">
 
@@ -148,7 +148,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 
 <article id="adventure-playground" class="children entry">
@@ -204,7 +204,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="pilates" class="open-to-all entry">
 
@@ -254,7 +254,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="tip-top-dance" class="children entry">
 

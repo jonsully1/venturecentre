@@ -27,14 +27,14 @@
 
 	<body class="home">
 
-		<!--///////////////////////// start of header /////////////////////////////-->
+		<!-- start of header -->
 
 		<header>
 		
 		<div id="skip"><a href="#maincontent">skip to main content</a></div>
 
 
-		<!--///////////////////////// start of nav bar /////////////////////////////-->
+		<!-- start of nav bar -->
 
 <nav aria-label="primary">
 
@@ -52,9 +52,9 @@
 
 </nav>
 
-		<!--///////////////////////// end of nav bar /////////////////////////////-->
+		<!-- end of nav bar -->
 			
-		<!-- ///////////////////////// start of logo-newsletter.php ///////////////////////// -->
+		<!--  start of logo-newsletter.php  -->
 		
 <div class="logo-newsletter">
 
@@ -68,13 +68,13 @@
 
 	<h1>Venture : Home</h1>
 			
-		<!-- ///////////////////////// end of logo-newsletter.php ///////////////////////// -->
+		<!--  end of logo-newsletter.php  -->
 
 		</header>
 
-		<!--///////////////////////// end of header /////////////////////////////-->
+		<!-- end of header -->
 		
-	<!-- ///////////////////////// start of recent-news-content.php ///////////////////////// -->
+	<!--  start of recent-news-content.php  -->
 
 <aside class="recent-news">
 
@@ -84,9 +84,9 @@
 	
 </aside>
 
-		<!-- ///////////////////////// end of recent-news-content.php ///////////////////////// -->
+		<!--  end of recent-news-content.php  -->
 		
-		<!--///////////////////////// start of main (php) /////////////////////////////-->
+		<!-- start of main (php) -->
 
 		<main id="maincontent">
 		
@@ -147,7 +147,7 @@ include $content[$today];
 <!-- 	</div> -->
 <!-- 	portfolio close -->
 			
-		<!--///////////////////////// start of Share on social media /////////////////////////////-->
+		<!-- start of Share on social media -->
 
 		<div class="social-share">
 
@@ -168,14 +168,14 @@ include $content[$today];
 		</div>
 
 		
-		<!--///////////////////////// start of Share on social media /////////////////////////////-->
+		<!-- start of Share on social media -->
 
 		</main>
 
-		<!--///////////////////////// end of main ///////////////////////// -->
+		<!-- end of main  -->
 		
 		
-        <!-- ///////////////////////// start of coming-soon.php ///////////////////////// -->
+        <!--  start of coming-soon.php  -->
 
         <aside class="coming-soon">
 
@@ -184,9 +184,9 @@ include $content[$today];
             <?php include 'php/main-content/coming-soon.php';?>
 
         </aside>
-        <!-- ///////////////////////// end of coming-soon.php ///////////////////////// -->
+        <!--  end of coming-soon.php  -->
 		
 
-		<!-- ///////////////////////// start of footer.php ///////////////////////// -->
+		<!--  start of footer.php  -->
 
 <?php include 'php/footer-content/footer.php';?>

@@ -41,7 +41,7 @@
 	</div>
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="adventure-playground" class="children entry">
 

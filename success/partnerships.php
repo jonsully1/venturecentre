@@ -6,7 +6,7 @@
 
 	<meta charset="UTF-8">
 
-	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame - what a beauty, cross broswer compatiblity solved!! -->
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -25,7 +25,7 @@
 
 <body id="remove-link" class="current-page">
 
-	<!--///////////////////////// start of header /////////////////////////////-->
+	<!-- start of header -->
 
 	<header>
 
@@ -33,7 +33,7 @@
 		</div>
 
 
-		<!--///////////////////////// start of nav bar /////////////////////////////-->
+		<!-- start of nav bar -->
 
 		<nav aria-label="primary">
 
@@ -60,21 +60,21 @@
 
 		</nav>
 
-		<!--///////////////////////// end of nav bar /////////////////////////////-->
+		<!-- end of nav bar -->
 
-		<!-- ///////////////////////// start of logo-newsletter ///////////////////////// -->
+		<!--  start of logo-newsletter  -->
 
 		<?php include '../php/header-content/logo-newsletter.php';?>
 
-		<!-- ///////////////////////// end of logo-newsletter ///////////////////////// -->
+		<!--  end of logo-newsletter  -->
 
 		<h1>Venture : Partnerships</h1>
 
 	</header>
 
-	<!--///////////////////////// end of header /////////////////////////////-->
+	<!-- end of header -->
 
-	<!--///////////////////////// start of sub-menu /////////////////////////////-->
+	<!-- start of sub-menu -->
 
 	<aside class="sub-menu">
 
@@ -92,9 +92,9 @@
 		</nav>
 
 	</aside>
-	<!--///////////////////////// end of sub-menu /////////////////////////////-->
+	<!-- end of sub-menu -->
 
-	<!--///////////////////////// start of breadcrumbs /////////////////////////////-->
+	<!-- start of breadcrumbs -->
 
 	<div class="breadcrumbs">
 		<ul>
@@ -108,9 +108,9 @@
 		</ul>
 	</div>
 
-	<!--///////////////////////// end of breadcrumbs /////////////////////////////-->
+	<!-- end of breadcrumbs -->
 
-	<!--///////////////////////// start of main /////////////////////////-->
+	<!-- start of main -->
 
 
 	<main class="general" id="maincontent">
@@ -133,7 +133,7 @@
 			<p>Nicola Tedore, Community Crèche Manager</p>
 
 		</div>
-		<!-- div class="inner" close -->
+		<!-- div .inner close -->
 
 		<div class="inner">
 
@@ -148,7 +148,7 @@
 			<p>Lizzie Cho, Director of Nova New Opportunities</p>
 
 		</div>
-		<!-- div class="inner" close -->
+		<!-- .inner close -->
 
 		<div class="inner">
 
@@ -168,9 +168,9 @@
 
 	</main>
 
-	<!-- ///////////////////////// end of  main content ///////////////////////// -->
+	<!--  end of  main content  -->
 
-	<!-- ///////////////////////// start of coming-soon.php ///////////////////////// -->
+	<!--  start of coming-soon.php  -->
 
 	<aside class="coming-soon">
 
@@ -179,9 +179,9 @@
 		<?php include '../php/main-content/coming-soon.php';?>
 
 	</aside>
-	<!-- ///////////////////////// end of coming-soon.php ///////////////////////// -->
+	<!--  end of coming-soon.php  -->
 
-	<!--///////////////////////// start of Share on social media /////////////////////////////-->
+	<!-- start of Share on social media -->
 
 	<div class="social-share">
 
@@ -202,9 +202,9 @@
 
 	</div>
 
-	<!--///////////////////////// start of Share on social media /////////////////////////////-->
+	<!-- start of Share on social media -->
 
-	<!-- ///////////////////////// start of recent-news-content.php ///////////////////////// -->
+	<!--  start of recent-news-content.php  -->
 
 	<section class="recent-news">
 
@@ -214,10 +214,8 @@
 
 	</section>
 
-	<!-- ///////////////////////// end of recent-news-content.php ///////////////////////// -->
+	<!--  end of recent-news-content.php  -->
 
-
-
-	<!-- ///////////////////////// start of footer.php ///////////////////////// -->
+	<!--  start of footer.php  -->
 
 	<?php include '../php/footer-content/footer.php';?>

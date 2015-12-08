@@ -50,7 +50,7 @@
 	</div>
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="advocacy-project" class="open-to-all entry">
 
@@ -98,7 +98,7 @@
 
 </article>
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 
 <article id="adventure-playground" class="children entry">
 
@@ -152,7 +152,7 @@
 
 </article>
 	
-	<!-- /////////////////////////////////////////////////////////////// -->
+	<!-- / -->
 
 <article id="tip-top-dance" class="children entry">
 
@@ -206,7 +206,7 @@
 
 </article> 
 
-<!-- /////////////////////////////////////////////////////////////// -->
+<!-- / -->
 	
 
 <article id="glissando-steel-band" class="open-to-all entry">

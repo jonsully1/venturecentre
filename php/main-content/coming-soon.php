@@ -1,7 +1,7 @@
 
 <div class="inner">
 	
-		   <!-- /////////////////////////////////////////////////////////////// -->
+		   <!-- / -->
     
  <article id="christmas-party" class="events entry">
 
@@ -46,7 +46,7 @@
 
 </article>
 
-	   <!-- /////////////////////////////////////////////////////////////// -->
+	   <!-- / -->
     
  <article id="tip-top-dance" class="events entry">
 
@@ -103,7 +103,7 @@
 
 </article>
 	
-			   <!-- /////////////////////////////////////////////////////////////// -->
+			   <!-- / -->
     
  <article id="parents-carers-forum" class="events entry">
 
