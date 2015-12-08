@@ -1,0 +1,33 @@
+[27-Jul-2015 09:15:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:15:35] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:15:57] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:16:05] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:16:47] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:17:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:17:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:17:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:17:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:17:56] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:18:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:18:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:18:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:20:52] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:21:10] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 116
+[27-Jul-2015 09:24:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/footer-content/search.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/venturi3/public_html/index.php on line 48
+[01-Aug-2015 12:21:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:21:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:21:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:21:43] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:22:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:22:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:22:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:22:34] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:22:35] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:24:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:27:04] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[01-Aug-2015 12:27:14] PHP Parse error:  syntax error, unexpected T_STRING in /home4/venturi3/public_html/index.php on line 118
+[11-Aug-2015 04:31:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/venturi3/public_html/index.php on line 115
+[11-Aug-2015 04:31:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/venturi3/public_html/index.php on line 115
+[11-Aug-2015 04:31:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/venturi3/public_html/index.php on line 117
+[11-Aug-2015 11:48:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/venturi3/public_html/index.php on line 115
+[11-Aug-2015 04:51:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/venturi3/public_html/index.php on line 117
